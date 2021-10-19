@@ -13,3 +13,7 @@ A continuación, el punto que realizamos es el de etiquetar cada objeto del proy
 En el punto de iluminación solo tuvimos que añadir un punto de luz más, ya que el proyecto ya trae una luz direccional por defecto. Dicha luz que añadimos se trata de un foco de luz (Spot light), el cual colocamos lateralmente para enfocar todo el entorno con el personaje y demas objetos añadidos.
 
 Por último, añadimos un pequeño lago en el interior de las montañas, el cual se encontraba en el paquete de Standard Assets, y para generar las palmeras usaremos el objeto que se encuentra en el paquete de Standard Assets.
+
+GIF del mini proyecto realizado.
+
+![Alt Text](https://github.com/Alu0101030562/II-Introduccion-a-unity/blob/main/introduccion%20a%20unity.gif)
